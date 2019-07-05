@@ -1,0 +1,11 @@
+drive.google.com
+nytimes.com
+sourceforge.net
+europa.eu
+support.google.com
+yandex.ru
+reddit.com
+soundcloud.com
+t.co
+nih.gov
+sites.google.com
